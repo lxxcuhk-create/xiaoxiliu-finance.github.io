@@ -5,7 +5,7 @@ title: Research Projects
 
 <link rel="stylesheet" href="{{ '/assets/style.css?v=15' | relative_url }}">
 
-My research explores how **credit markets**, **banks**, and **global financial networks**
+My recent research explores how **credit markets**, **banks**, and **global financial networks**
 shape fragility, resilience, and macro-financial spillovers.
 
 <div class="project-grid">
@@ -43,15 +43,6 @@ shape fragility, resilience, and macro-financial spillovers.
     Using bilateral FDI, portfolio, and banking data, I map China’s evolving position in global finance.
     <div class="project-insight">
       Key insight: Global finance is increasingly shaped by network structure, not just volume.
-    </div>
-  </div>
-
-  <div class="project-card">
-    <h3>Shadow Credit and Regulatory Arbitrage</h3>
-    <div class="project-meta">Journal of Banking & Finance (2024)</div>
-    I document how shadow lending channels respond to regulation, highlighting unintended policy consequences.
-    <div class="project-insight">
-      Key insight: Credit migrates across balance sheets when regulation tightens.
     </div>
   </div>
 
