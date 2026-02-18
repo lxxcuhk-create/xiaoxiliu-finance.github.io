@@ -3,70 +3,56 @@ layout: page
 title: Research Projects
 ---
 
-<link rel="stylesheet" href="{{ '/assets/style.css?v=14' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/style.css?v=15' | relative_url }}">
 
 My research explores how **credit markets**, **banks**, and **global financial networks**
 shape fragility, resilience, and macro-financial spillovers.
 
----
+<div class="project-grid">
 
-## Treasury Market Fragility and Liquidity Management  
-**(Review of Financial Studies, 2025)**
+  <div class="project-card">
+    <h3>Treasury Market Fragility and Liquidity Management</h3>
+    <div class="project-meta">Review of Financial Studies (2025) — Editor’s Choice</div>
+    Bond mutual funds provide liquidity, but liquidity management can amplify volatility during stress episodes.
+    <div class="project-insight">
+      Key insight: Market fragility is often an endogenous outcome of liquidity demand.
+    </div>
+  </div>
 
-Bond mutual funds play an important role in Treasury market liquidity,
-but liquidity management can also amplify volatility during stress episodes.
+  <div class="project-card">
+    <h3>Zombie Firms and Credit Misallocation in Asia</h3>
+    <div class="project-meta">BIS Working Paper (ongoing)</div>
+    I study the rise of zombie firms in Asia and how subsidized credit reshapes productivity and spillovers.
+    <div class="project-insight">
+      Key insight: Credit support may delay restructuring and weaken growth dynamics.
+    </div>
+  </div>
 
-**Key insight:** Market fragility is often an endogenous outcome of liquidity demand.
+  <div class="project-card">
+    <h3>China’s Firm–Bank Nexus and Lending Dynamics</h3>
+    <div class="project-meta">with BIS/SNB collaborators</div>
+    This project examines how bank–firm relationships interact with credit conditions, risk-taking, and regulation.
+    <div class="project-insight">
+      Key insight: Micro-level bank linkages can matter for aggregate stability.
+    </div>
+  </div>
 
-*Selected publication:*  
-- *Does Liquidity Management Induce Fragility in Treasury Prices?* (RFS, Editor’s Choice)
+  <div class="project-card">
+    <h3>China’s Global Financial Linkages and Spillovers</h3>
+    <div class="project-meta">IMF collaboration — multi-layer investment networks</div>
+    Using bilateral FDI, portfolio, and banking data, I map China’s evolving position in global finance.
+    <div class="project-insight">
+      Key insight: Global finance is increasingly shaped by network structure, not just volume.
+    </div>
+  </div>
 
----
+  <div class="project-card">
+    <h3>Shadow Credit and Regulatory Arbitrage</h3>
+    <div class="project-meta">Journal of Banking & Finance (2024)</div>
+    I document how shadow lending channels respond to regulation, highlighting unintended policy consequences.
+    <div class="project-insight">
+      Key insight: Credit migrates across balance sheets when regulation tightens.
+    </div>
+  </div>
 
-## Zombie Firms and Credit Misallocation in Asia  
-**(BIS Working Paper, ongoing)**
-
-I study the rise of zombie firms in Asia and how subsidized credit allocation
-can weaken productivity dynamics and generate macro-financial spillovers.
-
-**Key insight:** Credit support may delay restructuring and reshape regional growth risks.
-
----
-
-## China’s Firm–Bank Nexus and Lending Dynamics  
-**(with BIS/SNB collaborators)**
-
-This project examines how bank–firm relationships interact with credit conditions,
-risk-taking, and regulatory constraints in China’s financial system.
-
-**Key insight:** Micro-level bank linkages can matter for aggregate stability.
-
----
-
-## China’s Global Financial Linkages and Spillovers  
-**(IMF collaboration, multi-layer investment networks)**
-
-Using bilateral data on FDI, portfolio investment, and cross-border banking,
-I map the evolution of China’s international financial network
-and quantify spillover channels.
-
-**Key insight:** Global finance is increasingly shaped by network structure, not just volume.
-
----
-
-## Shadow Credit and Regulatory Arbitrage  
-**(Journal of Banking & Finance, 2024)**
-
-I document how shadow lending channels respond to regulatory constraints,
-highlighting unintended consequences of policy design.
-
-**Key insight:** Credit can migrate across balance sheets when regulation tightens.
-
----
-
-### Data & Visual Lab
-
-Many of these projects involve large-scale bilateral datasets and network visualizations.
-Figures and maps are available in the **Visual Lab** section.
-
----
+</div>
