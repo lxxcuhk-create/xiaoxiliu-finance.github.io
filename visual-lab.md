@@ -11,7 +11,6 @@ A gallery of figures and network maps from my research.
 - Centrality of financial hubs (US, HK, Japan, China)  
 - Spillovers through banking and bond markets  
 
-*(Figures will be added soon.)*
 ## Global Financial Network (2010-2024)
 
 <figure>
