@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Credit builds bridges across economies, but those same bridges can carry contagion. Understanding finance means tracing the paths along which liquidity and risk travel."
+title: "Finance researcher and storyteller"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css?v=25' | relative_url }}">
@@ -8,7 +8,7 @@ title: "Credit builds bridges across economies, but those same bridges can carry
 ### Xiaoxi (Amanda) Liu, Ph.D.
 📄 [Download my CV](CV_Xiaoxi_Liu_2026jan.pdf)
 
-I study how **credit markets** and **global financial networks** shape risks, crises, and the shifting balance of power in the world economy.
+Credit builds bridges across economies, but those same bridges can carry contagion. Understanding finance means tracing the paths along which liquidity and risk travel. I study how **credit markets** and **global financial networks** shape risks, crises, and the shifting balance of power in the world economy. I combine granular micro-level data with macro-financial analysis to uncover transmission mechanisms that are not visible in aggregate statistics.
 
 ---
 
@@ -16,10 +16,10 @@ I study how **credit markets** and **global financial networks** shape risks, cr
 
 My work sits at the intersection of:
 
-- Credit markets and bond market fragility  
-- Banks and international financial spillovers  
-- Network structure of global capital flows  
-- Emerging markets and macro-financial stability  
+- Credit market frictions and asset prices  
+- Banks, non-bank financial intermediaries and financial stability   
+- Global financial networks and capital flows  
+- Emerging markets and international macro-financial linkages  
 
 ---
 
