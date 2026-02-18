@@ -30,12 +30,12 @@ A gallery of figures and network maps from my research.
   </figcaption>
 </figure>
 
-## General equilibrium model in which firms issue nearly redundant securities to investor with participation constraints
+## Equilibrium in which firms issue nearly redundant securities to investor with participation constraints
 
 <figure>
   <img src="assets/figures/timeline_model.png" width="750">
   <figcaption>
-    <em>Figure 3.</em> Timeline of information revelation and agents’ decision making.
+    <em>Figure 3.</em> Factors to consider during Islamic bonds issuance decision.
   </figcaption>
 </figure>
 
