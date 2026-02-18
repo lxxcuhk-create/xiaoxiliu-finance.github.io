@@ -3,7 +3,7 @@ layout: home
 title: "Studies on credit market, banks, and international finance"
 ---
 
-https://lxxcuhk-create.github.io/xiaoxiliu-finance.github.io/
+<link rel="stylesheet" href="{{ '/assets/style.css?v=20' | relative_url }}">
 
 ### Xiaoxi (Amanda) Liu, Ph.D.
 📄 [Download my CV](CV_Xiaoxi_Liu_2026jan.pdf)
