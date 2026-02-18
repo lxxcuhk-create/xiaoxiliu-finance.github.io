@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<link rel="stylesheet" href="{{ '/assets/style.css?v=20' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/style.css?v=25' | relative_url }}">
 
 ## Journal Articles
 
