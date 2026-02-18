@@ -41,9 +41,9 @@ My work sits at the intersection of:
 Short essays connecting academic research with real-time global finance.
 
 Coming soon:
-- Zombie firms and Asia’s credit cycle  
+- Asia Zombie firms and spillover effects
 - Treasury fragility after QE  
-- Global financial hubs in network terms  
+- Global financial connection structure evolves 
 
 ---
 
