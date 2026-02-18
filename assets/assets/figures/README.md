@@ -1,1 +1,0 @@
-Figures for the Visual Lab page.
