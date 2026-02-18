@@ -46,12 +46,12 @@ hr {
 
 /* Make top-left site title smaller */
 .site-title {
-  font-size: 0.5rem !important;
+  font-size: 0.6rem !important;
   font-weight: 600 !important;
 }
 /* Reduce huge homepage heading */
 .page-heading {
-  font-size: 0.8rem !important;
+  font-size: 0.6rem !important;
   line-height: 1.2 !important;
   margin-top: 1.2rem !important;
 }
@@ -70,4 +70,13 @@ hr {
   background: rgba(255,255,255,0.85);
   border-radius: 10px;
   padding: 2.5rem 1.8rem;
+}
+
+/* Make navigation menu use the same Economist serif font */
+.site-nav,
+.site-nav a,
+.nav-trigger,
+.page-link {
+  font-family: "Source Serif 4", Georgia, serif !important;
+  font-size: 1rem !important;
 }
