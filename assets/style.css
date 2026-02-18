@@ -144,3 +144,41 @@ a[href$=".pdf"]:hover {
   background: rgba(122, 0, 25, 0.15);
 }
 
+/* ===== Burgundy theme for dropdown / mobile menu ===== */
+
+/* Hamburger menu icon */
+.nav-trigger + label {
+  color: var(--accent) !important;
+}
+
+/* Dropdown menu background */
+.site-nav {
+  background: #fdfcf8 !important;
+}
+
+/* All menu links inside dropdown */
+.site-nav .page-link,
+.site-nav a {
+  color: var(--accent) !important;
+  font-weight: 600 !important;
+}
+
+/* Hover effect in menu */
+.site-nav .page-link:hover,
+.site-nav a:hover {
+  background: var(--accent-soft) !important;
+  border-radius: 6px;
+}
+
+/* Active/current page link */
+.site-nav .page-link.active {
+  border-bottom: 2px solid var(--accent) !important;
+}
+
+/* ===== Burgundy accent for section headings on subpages ===== */
+
+h2 {
+  border-left: 4px solid var(--accent);
+  padding-left: 10px;
+}
+
