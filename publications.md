@@ -14,10 +14,11 @@ title: Publications
    *(with Ilhyock Shim)*  
    Journal of Banking & Finance, 2024
 
-3. **Forecasting swap rate volatility with information from swaptions**  
+3. **Forecasting swap rate volatility with information from swaptions**
+   *(with Jingming Xie)* 
    Journal of Futures Markets, 2022
 
-4. **Exchange Rate Fluctuations and Firm Leverage**  
+5. **Exchange Rate Fluctuations and Firm Leverage**  
    *(with Sebnem Kalemli-Ozcan and Ilhyock Shim)*  
    IMF Economic Review, 2021
 
@@ -27,8 +28,10 @@ title: Publications
 
 - The Impact of Introducing a (Nearly) Redundant Security  
   *(2nd round R&R, Journal of Financial Economics)*
+  *(with Antje Berndt, Jean Helwege, and Frank Packer)*
 
 - Fading economic miracles in Asia: what role for zombie firms?
+  *(with Boris Hofmann and Ilhyock Shim)*
 
 - The evolution of China's global financial linkages and spillovers  
-  *(multi-layer network project with IMF collaborators)*
+  *(multi-layer network project with IMF and HKMA collaborators)*
