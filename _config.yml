@@ -8,3 +8,6 @@ header_pages:
   - publications.md
   - notes.md
   - visual-lab.md
+
+include:
+  - style.scss
