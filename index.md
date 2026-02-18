@@ -1,6 +1,9 @@
 ---
 layout: home
-title: "Studies on credit market, banks, and international finance"
+title: "Credit builds bridges across economies—
+but those same bridges can carry contagion.
+Understanding finance means tracing the paths
+along which liquidity and risk travel.”
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css?v=25' | relative_url }}">
