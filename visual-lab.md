@@ -15,18 +15,27 @@ A gallery of figures and network maps from my research.
 ## Global Financial Network (2010-2024)
 
 <figure>
-  <img src="assets/figures/network_2024.png" width="750">
+  <img src="assets/figures/pagerank_timeseries.png" width="750">
   <figcaption>
-    <em>Figure 1.</em> Global financial network hubs and concentration patterns, 2010–2024.
+    <em>Figure 1.</em> Global financial network hubs and concentration patterns, 2009–2024.
   </figcaption>
 </figure>
 
-## US Treasury Volatility and Credit Spillovers
+## US Treasury Volatility and Mutual Fund Liquidity Management
 
 <figure>
-  <img src="assets/figures/bond_volatility.png" width="750">
+  <img src="assets/figures/figure1.png" width="750">
   <figcaption>
-    <em>Figure 2.</em> Treasury volatility as a signal of global credit tightening.
+    <em>Figure 2.</em> Fund Flows During COVID-19 Pandemic Announcement and Fed Intervention.
+  </figcaption>
+</figure>
+
+## General equilibrium model in which firms issue nearly redundant securities to investor with participation constraints
+
+<figure>
+  <img src="assets/figures/timeline_model.png" width="750">
+  <figcaption>
+    <em>Figure 3.</em> Timeline of information revelation and agents’ decision making.
   </figcaption>
 </figure>
 
