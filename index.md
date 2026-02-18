@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/style.scss' | relative_url }}">
 ---
 layout: home
 title: "Studies on credit market, banks, and international finance"
