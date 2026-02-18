@@ -2,7 +2,8 @@
 layout: page
 title: Visual Lab
 ---
-<link rel="stylesheet" href="{{ '/assets/style.css?v=20' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/style.css?v=25' | relative_url }}">
+
 A gallery of figures and network maps from my research.
 
 ### Featured topics
