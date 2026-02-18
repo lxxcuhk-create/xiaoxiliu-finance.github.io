@@ -1,0 +1,10 @@
+title: "Xiaoxi (Amanda) Liu"
+description: "Studies on credit market, banks, and international finance"
+theme: minima
+
+markdown: kramdown
+
+header_pages:
+  - publications.md
+  - notes.md
+  - visual-lab.md
