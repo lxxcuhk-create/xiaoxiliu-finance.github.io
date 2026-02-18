@@ -1,6 +1,5 @@
 /* Economist-style journal fonts */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Serif+4:wght@300;400;600&display=swap');
-<link rel="stylesheet" href="{{ '/assets/style.css?v=21' | relative_url }}">
 /* Body: printed journal serif */
 body {
   font-family: "Source Serif 4", Georgia, serif;
