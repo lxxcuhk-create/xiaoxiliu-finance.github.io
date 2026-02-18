@@ -26,7 +26,7 @@ title: Publications
 
 ## Working Papers
 
-- The Impact of Introducing a (Nearly) Redundant Security  
+- The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds 
   *(with Antje Berndt, Jean Helwege, and Frank Packer)*
   2nd round R&R, Journal of Financial Economics
 
