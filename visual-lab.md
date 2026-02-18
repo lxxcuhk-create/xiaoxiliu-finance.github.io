@@ -33,7 +33,7 @@ A gallery of figures and network maps from my research.
 ## Equilibrium in which firms issue nearly redundant securities to investor with participation constraints
 
 <figure>
-  <img src="assets/IMG_2823.png" width="750">
+  <img src="assets/IMG_2823.jpeg" width="750">
   <figcaption>
     <em>Figure 3.</em> Factors to consider during Islamic bonds issuance decision.
   </figcaption>
