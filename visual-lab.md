@@ -35,7 +35,7 @@ A gallery of figures and network maps from my research.
 <figure>
   <img src="assets/figures/IMG_2823.jpeg" width="750">
   <figcaption>
-    <em>Figure 3.</em> Factors to consider during Islamic bonds issuance decision.
+    <em>Figure 3.</em> Factors to consider when making Islamic bonds issuance decision.
   </figcaption>
 </figure>
 
