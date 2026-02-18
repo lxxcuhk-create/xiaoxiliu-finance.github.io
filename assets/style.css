@@ -103,9 +103,44 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville", serif !important;
 }
 
-
-@media (max-width: 600px) {
-  .site-nav a {
-    font-size: 1.05rem !important;
-  }
+/* ===== Economist Burgundy Accent ===== */
+:root {
+  --accent: #7a0019;   /* deep burgundy */
+  --accent-soft: rgba(122, 0, 25, 0.08);
 }
+
+/* Links */
+a {
+  color: var(--accent) !important;
+  border-bottom: 1px solid rgba(122, 0, 25, 0.35) !important;
+}
+
+a:hover {
+  border-bottom: 1px solid rgba(122, 0, 25, 0.75) !important;
+}
+
+/* Navigation links */
+.site-nav a, .page-link {
+  color: var(--accent) !important;
+}
+
+/* Page title underline (subtle editorial touch) */
+.page-heading {
+  border-bottom: 2px solid var(--accent-soft);
+  padding-bottom: 0.4rem;
+}
+
+/* CV download button style (if you have PDF link) */
+a[href$=".pdf"] {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(122, 0, 25, 0.35);
+  background: var(--accent-soft);
+  font-weight: 600;
+}
+
+a[href$=".pdf"]:hover {
+  background: rgba(122, 0, 25, 0.15);
+}
+
