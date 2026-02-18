@@ -15,9 +15,9 @@ A gallery of figures and network maps from my research.
 ## Global Financial Network (2010-2024)
 
 <figure>
-  <img src="assets/figures/pagerank_timeseries.png" width="750">
+  <img src="assets/figures/sankey_FDI_top15.png" width="750">
   <figcaption>
-    <em>Figure 1.</em> Global financial network hubs and concentration patterns, 2009–2024.
+    <em>Figure 1.</em> Global financial network: FDI, main creditors and debtors.
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ A gallery of figures and network maps from my research.
 ## Equilibrium in which firms issue nearly redundant securities to investor with participation constraints
 
 <figure>
-  <img src="assets/figures/timeline_model.png" width="750">
+  <img src="assets/IMAGE_2823.png" width="750">
   <figcaption>
     <em>Figure 3.</em> Factors to consider during Islamic bonds issuance decision.
   </figcaption>
