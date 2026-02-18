@@ -4,6 +4,7 @@ title: "Studies on credit market, banks, and international finance"
 ---
 
 # Xiaoxi (Amanda) Liu, Ph.D.
+📄 [Download my CV](CV_Xiaoxi_Liu_2026jan.pdf)
 
 I study how **credit markets** and **global financial networks** shape risks, crises, and the shifting balance of power in the world economy.
 
