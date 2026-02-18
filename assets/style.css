@@ -44,12 +44,12 @@ hr {
 
 /* Make top-left site title smaller */
 .site-title {
-  font-size: 1.4rem !important;
+  font-size: 0.5rem !important;
   font-weight: 600 !important;
 }
 /* Reduce huge homepage heading */
 .page-heading {
-  font-size: 1.0rem !important;
+  font-size: 0.8rem !important;
   line-height: 1.2 !important;
   margin-top: 1.2rem !important;
 }
