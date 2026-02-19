@@ -29,7 +29,7 @@ title: Commentary
       While often framed as a micro-level inefficiency, their persistence raises a broader question:
       what happens when credit support becomes permanent rather than temporary?
 
-      The first effect is macroeconomic. Economies with a higher zombie share experience weaker GDP growth
+ The first effect is macroeconomic. Economies with a higher zombie share experience weaker GDP growth
       and persistent disinflation. Capital and labor remain tied up in low-productivity firms,
       reducing competitive pressure and dampening investment among healthier firms.
       Credit allocation becomes less responsive to fundamentals.
