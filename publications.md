@@ -8,9 +8,6 @@ title: Publications
 
 ### Does Liquidity Management Induce Fragility in Treasury Prices? Evidence from Bond Mutual Funds  
 <span class="pub-highlight">Review of Financial Studies, 38(2), 2025, 337–380</span>  
-Editor’s Choice and Lead Article  
-Winner of the Best Paper Award (Third Place), 9th China Investment Annual Conference (2021)  
-Semifinalist for the Best Paper Award, FMA Annual Meeting (2021)
 
 ---
 
