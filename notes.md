@@ -18,7 +18,8 @@ title: Commentary & Notes
   <h2 class="commentary-title">
     When Weak Firms Survive Through Weak Banks
   </h2>
-
+  <span class="commentary-meta">March 2025 · Research Commentary</span>
+  
   <div class="commentary-epigraph">
     <em>When weak firms survive through weak banks, stagnation becomes systemic.</em>
     
