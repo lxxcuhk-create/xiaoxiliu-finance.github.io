@@ -28,7 +28,7 @@ title: Publications
 
 - The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds 
   *(with Antje Berndt, Jean Helwege, and Frank Packer)*
-  2nd round R&R, Journal of Financial Economics
+  2nd round R&R, Journal of Financial Economics, 2026
 
 - Fading economic miracles in Asia: what role for zombie firms?
   *(with Boris Hofmann and Ilhyock Shim)*
