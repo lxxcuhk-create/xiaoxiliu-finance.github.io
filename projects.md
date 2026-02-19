@@ -27,15 +27,23 @@ shape fragility, resilience, and macro-financial spillovers.
       Key insight: Credit support may delay restructuring and weaken growth dynamics.
     </div>
   </div>
-
+  
   <div class="project-card">
-    <h3>China’s Firm–Bank Nexus and Lending Dynamics</h3>
-    <div class="project-meta">with BIS/SNB collaborators</div>
-    This project examines how bank–firm relationships interact with credit conditions, risk-taking, and regulation.
-    <div class="project-insight">
-      Key insight: Micro-level bank linkages can matter for aggregate stability.
-    </div>
+  <h3>Redundant Securities and Market Completion</h3>
+  <div class="project-meta">
+    General Equilibrium & Empirical Study — Corporate Bond Markets
   </div>
+  Financial innovation is often viewed as duplication rather than necessity.
+  This project examines whether introducing a seemingly redundant security
+  can improve allocation in corporate bond markets with frictions.
+  In a general equilibrium framework, I show that an additional instrument
+  may alleviate liquidity and participation constraints and improve market functioning.
+  The theoretical results are supported by empirical evidence from bond 
+  <div class="project-insight">
+  Key insight: Redundancy in theory does not imply irrelevance in practice.
+  With frictions, additional securities can increase welfare by relaxing binding constraints.
+  </div>
+</div>
 
   <div class="project-card">
     <h3>China’s Global Financial Linkages and Spillovers</h3>
