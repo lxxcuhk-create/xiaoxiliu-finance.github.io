@@ -21,6 +21,7 @@ title: Commentary
 
   <div class="commentary-epigraph">
     <em>When weak firms survive through weak banks, stagnation becomes systemic.</em>
+    
   </div>
 
   <div class="commentary-body">
