@@ -264,3 +264,14 @@ h2 {
   margin-bottom: 1rem;
 }
 
+/* Commentary meta line */
+
+.commentary-meta {
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #8a1c2e;   /* 你的酒红色 */
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
