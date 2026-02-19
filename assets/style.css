@@ -282,3 +282,14 @@ h2 {
   font-weight: 700;
 }
 
+/* Highlight top publications */
+
+.pub-highlight {
+  color: #7a0019;   /* 酒红色 */
+  font-weight: 700;
+}
+
+.pub-highlight::before {
+  content: "★ ";
+}
+
