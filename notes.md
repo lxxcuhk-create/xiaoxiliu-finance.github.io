@@ -69,7 +69,3 @@ title: Commentary
   </div>
 
 </article>
-
-### Coming soon
-- Treasury fragility after QE  
-- Global financial connection structure evolves 
