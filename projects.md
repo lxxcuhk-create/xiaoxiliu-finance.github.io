@@ -44,16 +44,22 @@ shape fragility, resilience, and macro-financial spillovers.
   </div>
 </div>
 
-  <div class="project-card">
-    <h3>Zombie Firms and Credit Misallocation in Asia</h3>
-    <div class="project-meta">BIS Working Paper (ongoing)</div>
-    I study the rise of zombie firms in Asia and how subsidized credit reshapes productivity and spillovers.
-    <div class="project-insight">
-      Key insight: Credit support may delay restructuring and weaken growth dynamics.
-    </div>
+<div class="project-card">
+  <h3>Zombie Firms, Bank Evergreening, and Macro Spillovers</h3>
+  <div class="project-meta">
+    Credit Misallocation, Bank Balance Sheets, and Disinflationary Effects
   </div>
-  
-
+  This project examines how the persistence of zombie firms reshapes macroeconomic outcomes in Asia. 
+  Economies with a higher zombie share experience weaker GDP growth and sustained disinflation. 
+  These effects spill across borders through trade linkages, transmitting deflationary pressure 
+  beyond national boundaries. At the micro level, banks with weaker capital positions and higher 
+  balance-sheet stress are more likely to evergreen loans to distressed firms, sustaining 
+  non-viable businesses and delaying necessary restructuring.
+  <div class="project-insight">
+    Key insight: When weak banks roll over weak firms, short-term stability can translate 
+    into slower growth, persistent disinflation, and accumulated systemic risk.
+  </div>
+</div>
 
   <div class="project-card">
     <h3>China’s Global Financial Linkages and Spillovers</h3>
