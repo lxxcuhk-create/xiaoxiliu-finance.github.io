@@ -58,7 +58,7 @@ BIS Quarterly Review, September 2020
 ---
 
 ### The Evolution of China’s Global Financial Linkages and Spillovers: Perspectives from a Multi-Layer Network  
-2023,2026
+2026
 HKIMR Conference, with IMF and HKMA collaborations 
 
 ---
