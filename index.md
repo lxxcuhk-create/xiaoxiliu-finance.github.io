@@ -45,10 +45,9 @@ My work sits at the intersection of:
 
 ## Commentary & Notes
 
-Short essays connecting academic research with real-time global finance.
+- Asia Zombie firms and spillover effects
 
 Coming soon:
-- Asia Zombie firms and spillover effects
 - Treasury fragility after QE  
 - Global financial connection structure evolves 
 
