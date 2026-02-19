@@ -26,7 +26,11 @@ My work sits at the intersection of:
 ## Selected Publications
 
 - **Does Liquidity Management Induce Fragility in Treasury Prices?**  
-  *Review of Financial Studies*, 2025 (Editor’s Choice, Lead Article)
+  *Review of Financial Studies*, 2025 
+  *Editor’s Choice and Lead Article*
+  *Winner of the Best Paper Award (Third Place), 9th China Investment Annual Conference (2021)*
+  *Semifinalist for the Best Paper Award, FMA Annual Meeting (2021)*
+
 
 - **Shadow Loans and Regulatory Arbitrage: Evidence from China**  
   *Journal of Banking & Finance*, 2024
