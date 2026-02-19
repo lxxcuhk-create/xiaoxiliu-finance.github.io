@@ -24,12 +24,13 @@ title: Commentary
   </div>
 
   <div class="commentary-body">
- In many Asian economies, zombie firms have quietly become a structural feature rather than a cyclical anomaly.
+    
+  In many Asian economies, zombie firms have quietly become a structural feature rather than a cyclical anomaly.
       These are mature firms unable to cover debt-servicing costs, yet kept alive through continued credit access.
       While often framed as a micro-level inefficiency, their persistence raises a broader question:
       what happens when credit support becomes permanent rather than temporary?
 
- The first effect is macroeconomic. Economies with a higher zombie share experience weaker GDP growth
+  The first effect is macroeconomic. Economies with a higher zombie share experience weaker GDP growth
       and persistent disinflation. Capital and labor remain tied up in low-productivity firms,
       reducing competitive pressure and dampening investment among healthier firms.
       Credit allocation becomes less responsive to fundamentals.
