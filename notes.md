@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Commentary
+title: Commentary & Notes
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css?v=21' | relative_url }}">
