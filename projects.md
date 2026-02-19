@@ -10,24 +10,23 @@ shape fragility, resilience, and macro-financial spillovers.
 
 <div class="project-grid">
 
-  <div class="project-card">
-    <h3>Treasury Market Fragility and Liquidity Management</h3>
-    <div class="project-meta">Review of Financial Studies (2025) — Editor’s Choice</div>
-    Bond mutual funds provide liquidity, but liquidity management can amplify volatility during stress episodes.
-    <div class="project-insight">
-      Key insight: Market fragility is often an endogenous outcome of liquidity demand.
-    </div>
+<div class="project-card">
+  <h3>Treasury Market Fragility and Liquidity Management</h3>
+  <div class="project-meta">
+    Review of Financial Studies (2025)
   </div>
+  Bond mutual funds hold Treasuries as liquidity buffers against redemption shocks.
+  Yet this very practice can transmit non-fundamental flow shocks into the
+  safest market in the world. We document that Treasury excess return volatility
+  rises with bond fund ownership, particularly among funds that engage in
+  intensive liquidity management. Exploiting the SEC’s 2017 Liquidity Risk
+  Management Rule and the COVID-19 turmoil provides causal evidence of this channel.
+  <div class="project-insight">
+    Key insight: Stability mechanisms at the fund level can generate fragility
+    at the system level.
+  </div>
+</div>
 
-  <div class="project-card">
-    <h3>Zombie Firms and Credit Misallocation in Asia</h3>
-    <div class="project-meta">BIS Working Paper (ongoing)</div>
-    I study the rise of zombie firms in Asia and how subsidized credit reshapes productivity and spillovers.
-    <div class="project-insight">
-      Key insight: Credit support may delay restructuring and weaken growth dynamics.
-    </div>
-  </div>
-  
   <div class="project-card">
   <h3>Redundant Securities and Market Completion</h3>
   <div class="project-meta">
@@ -44,6 +43,17 @@ shape fragility, resilience, and macro-financial spillovers.
   With frictions, additional securities can increase welfare by relaxing binding constraints.
   </div>
 </div>
+
+  <div class="project-card">
+    <h3>Zombie Firms and Credit Misallocation in Asia</h3>
+    <div class="project-meta">BIS Working Paper (ongoing)</div>
+    I study the rise of zombie firms in Asia and how subsidized credit reshapes productivity and spillovers.
+    <div class="project-insight">
+      Key insight: Credit support may delay restructuring and weaken growth dynamics.
+    </div>
+  </div>
+  
+
 
   <div class="project-card">
     <h3>China’s Global Financial Linkages and Spillovers</h3>
