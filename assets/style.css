@@ -275,3 +275,10 @@ h2 {
   font-weight: 600;
 }
 
+/* Highlight top publications */
+
+.pub-highlight {
+  color: #7a0019;   /* 你的酒红色 */
+  font-weight: 700;
+}
+
