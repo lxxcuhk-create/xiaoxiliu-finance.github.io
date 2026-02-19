@@ -17,7 +17,7 @@ shape fragility, resilience, and macro-financial spillovers.
   </div>
   Bond mutual funds hold Treasuries as liquidity buffers against redemption shocks.
   Yet this very practice can transmit non-fundamental flow shocks into the
-  safest market in the world. We document that Treasury excess return volatility
+  safest market in the world. This paper documented that Treasury excess return volatility
   rises with bond fund ownership, particularly among funds that engage in
   intensive liquidity management. Exploiting the SEC’s 2017 Liquidity Risk
   Management Rule and the COVID-19 turmoil provides causal evidence of this channel.
@@ -35,7 +35,7 @@ shape fragility, resilience, and macro-financial spillovers.
   Financial innovation is often viewed as duplication rather than necessity.
   This project examines whether introducing a seemingly redundant security
   can improve allocation in corporate bond markets with frictions.
-  In a general equilibrium framework, I show that an additional instrument
+  In a general equilibrium framework, this paper shows that an additional instrument
   may alleviate liquidity and participation constraints and improve market functioning.
   The theoretical results are supported by empirical evidence from bond 
   <div class="project-insight">
@@ -64,7 +64,7 @@ shape fragility, resilience, and macro-financial spillovers.
   <div class="project-card">
     <h3>China’s Global Financial Linkages and Spillovers</h3>
     <div class="project-meta">IMF collaboration — multi-layer investment networks</div>
-    Using bilateral FDI, portfolio, and banking data, I map China’s evolving position in global finance.
+    Using bilateral FDI, portfolio, and banking data, this paper maps China’s evolving position in global finance.
     <div class="project-insight">
       Key insight: Global finance is increasingly shaped by network structure, not just volume.
     </div>
