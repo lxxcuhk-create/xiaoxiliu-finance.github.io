@@ -72,4 +72,4 @@ title: Commentary
 
 ### Coming soon
 - Treasury fragility after QE  
-- The dollar system as a global financial network  
+- Global financial connection structure evolves 
