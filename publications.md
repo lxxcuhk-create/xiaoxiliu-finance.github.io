@@ -39,24 +39,24 @@ BIS Quarterly Review, September 2020
 ## Working Papers
 
 ### The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds  
-2026
+2026,
 <span class="pub-highlight">2nd Round R&R, Journal of Financial Economics</span>
 
 ---
 
 ### Fading Economic Miracles in Asia: What Role for Zombie Firms?  
-2026
+2026, with BIS coauthors
 
 ---
 
 ### The Firm-Bank Nexus and Bank Lending in China  
-2023
+2023, with BIS and SNB coauthors
 
 ---
 
 ### The Evolution of China’s Global Financial Linkages and Spillovers: Perspectives from a Multi-Layer Network  
-2026
-HKIMR Conference, with IMF and HKMA collaborations 
+2026, with IMF and HKMA collaborations  
+HKIMR Conference
 
 ---
 
