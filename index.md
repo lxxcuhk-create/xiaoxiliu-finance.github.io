@@ -38,7 +38,7 @@ My work sits at the intersection of:
 - **Exchange Rate Fluctuations and Firm Leverage**  
   *IMF Economic Review*, 2021
 
-- **The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds**
+- **The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds**  
   *Journal of Financial Economics*, 2nd round R&R, 2026
 
 ---
